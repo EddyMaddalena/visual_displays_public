@@ -1,8 +1,7 @@
 {
   "questions": {
-    "trust": "Which chart do you trust the most?",
-    "authority": "Which is the chart most authoritative chart?",
-    "reliable": "Which is the chart most reliable chart?",
-    "good_looking": "Which is the chart most good looking chart?"
+    "trust": "Which of these charts seems more trustworthy?",
+    "readable": "Which of these charts looks more readable?",
+    "explain": "Which of these charts seems easier for you to explain to someone else?"
   }
 }
