@@ -1,7 +1,7 @@
 {
   "questions": {
-    "trust": "Which of these charts seems more trustworthy?",
-    "readable": "Which of these charts looks more readable?",
-    "explain": "Which of these charts seems easier for you to explain to someone else?"
+    "trust": "Which chart seems more trustworthy?",
+    "readable": "Which chart looks more readable?",
+    "explain": "Which chart seems easier for you to explain to someone else?"
   }
 }
