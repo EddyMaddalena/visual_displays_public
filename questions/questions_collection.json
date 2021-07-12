@@ -2,6 +2,9 @@
   "questions": {
     "trust": "Which chart seems more trustworthy?",
     "readable": "Which chart looks more readable?",
-    "explain": "Which chart seems easier for you to explain to someone else?"
+    "explain": "Which chart seems easier for you to explain to someone else?",
+    "preference": "Which chart do you prefer over the other one?",
+    "readable2": "Which chart looks more readable to you?",
+    "easier": "Which chart seems easier for you to explain to someone else?"
   }
 }
